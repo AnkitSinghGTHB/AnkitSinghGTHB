@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Ankit Singh, and this is my GITHUB account, you can reuse my projects to make them better, or even make your own unique projects, happy learning!
 
 <!--
 **AnkitSinghGTHB/AnkitSinghGTHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
