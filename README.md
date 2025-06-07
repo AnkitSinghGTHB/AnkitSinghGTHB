@@ -1,6 +1,6 @@
 # Hi, I'm Ankit 👋
 
-I'm a student and an aspiring developer, passionate about learning and building new things every day.
+I'm a student and a developer, passionate about learning and building new things every day.
 
 - 🖥️ Top Skills: C++, Python, UI/UX
 - 🎨 Favourite Project: **Snakes can draw** — made with love!
