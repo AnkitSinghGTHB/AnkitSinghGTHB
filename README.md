@@ -46,7 +46,7 @@ I'm a student, developer, and an open source contributor, passionate about learn
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSinghGTHB&background=0d1117&ring=00e5ff&fire=e91e63&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=a8b2d1&hide_border=true" height="120" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4361348" width="320" height="120" style="border:none; vertical-align: middle;" scrolling="no"></iframe>
+  <a href="https://tryhackme.com/p/ankitbkp2020"><img src="https://tryhackme-badges.s3.amazonaws.com/ankitbkp2020.png" alt="TryHackMe" height="120" style="vertical-align: middle;" /></a>
 </div>
 
 <br/>
