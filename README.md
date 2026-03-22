@@ -1,108 +1,71 @@
-# Hi, I'm Ankit 👋
-
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitSinghGTHB&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/AnkitSinghGTHB?style=social)](https://github.com/AnkitSinghGTHB)
-
+  <img src="GITHUB%20banner.png" alt="Ankit Singh Banner" width="100%">
+  <br/><br/>
+  <a href="https://github.com/AnkitSinghGTHB"><img src="https://komarev.com/ghpvc/?username=AnkitSinghGTHB&color=e91e63&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/AnkitSinghGTHB?tab=followers"><img src="https://img.shields.io/github/followers/AnkitSinghGTHB?style=for-the-badge&color=00ffff&logo=github&logoColor=0d1117" alt="GitHub followers" /></a>
+  <a href="https://linkedin.com/in/ankit-s01"><img src="https://img.shields.io/badge/LinkedIn-e91e63?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/ankitbkp2020"><img src="https://img.shields.io/badge/TryHackMe-00ffff?style=for-the-badge&logo=TryHackMe&logoColor=0d1117" alt="TryHackMe" /></a>
+  <a href="https://twitter.com/dev_Ankit_01"><img src="https://img.shields.io/badge/Twitter-e91e63?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" /></a>
+  <a href="https://leetcode.com/u/AnkitS_1/"><img src="https://img.shields.io/badge/LeetCode-00ffff?style=for-the-badge&logo=leetcode&logoColor=0d1117" alt="LeetCode" /></a>
 </div>
+
+<br/>
 
 ## 🚀 About Me
 
-I'm a student and a developer, passionate about learning and building new things every day.
+I'm a student, developer, and an open source contributor, passionate about learning and building new things every day. 
 
-- 💻 **Top Skills:** C++, Python, UI/UX (AI)
-- 🎨 **Favourite Project:** [Snakes can draw](https://github.com/AnkitSinghGTHB/Snakes-can-Draw), made with love!
-- 🔒 **Dream:** To become a cybersecurity professional
-- 🌱 **Currently Learning:** Full-stack development and advanced DSA
-- 💡 **Fun Fact:** I love turning algorithms into interactive games
+* 💻 **Skills:** C++, Python, UI/UX (AI)
+* 🤝 **Looking to Collaborate on:** **Cybersecurity** projects and open-source initiatives
+* 🔒 **Dream:** To become a cybersecurity professional
+* 🌱 **Currently Learning:** Full-stack development, advanced DSA, and Cybersecurity concepts
+* 💡 **Fun Fact:** I love turning algorithms into interactive games
 
-Always excited to connect and collaborate. Let's make something awesome together!
+<br/>
 
----
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub & Cybersecurity Stats
 
 <div align="center">
-  
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitSinghGTHB&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSinghGTHB&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSinghGTHB&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSinghGTHB&background=0d1117&ring=00e5ff&fire=e91e63&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=a8b2d1&hide_border=true" height="120" style="vertical-align: middle;" />
+  &nbsp;&nbsp;&nbsp;
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4361348" width="320" height="120" style="border:none; vertical-align: middle;" scrolling="no"></iframe>
 </div>
 
----
+<br/>
 
 ## 🏆 Featured Projects
 
-### 🐍 [Snakes can Draw](https://github.com/AnkitSinghGTHB/Snakes-can-Draw)
-A creative Python painting app - my favorite project!
-- **Tech:** Python, SFML
-- **Highlights:** Interactive drawing with unique snake-based mechanics
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🐍 **[Snakes can Draw](https://github.com/AnkitSinghGTHB/Snakes-can-Draw)** | A creative Python painting app. Interactive drawing with unique mechanics! | *Python, SFML* |
+| ♟️ **[N-Queens Game](https://github.com/AnkitSinghGTHB/N-queens-Game)** | The classic N-Queens algorithm visualization turned into a playable UI game. | *C++* |
+| 🎮 **[Type2C](https://github.com/AnkitSinghGTHB/Type2C)** | Real-time multiplayer typing game over a network. | *C++, Sockets* |
+| 🖼️ **[2D Object Detection](https://github.com/AnkitSinghGTHB/2d-object-detection-without-opencv)** | Image segmentation using flood-fill algorithm without OpenCV. | *Python* |
+| 📊 **[DSA Repository](https://github.com/AnkitSinghGTHB/DSA)** | Comprehensive collection of 300+ commits of my DSA and LeetCode solutions. | *C++, Python* |
 
-### ♟️ [N-Queens Game](https://github.com/AnkitSinghGTHB/N-queens-Game)
-The classic N-Queens problem turned into an interactive game
-- **Tech:** C++
-- **Highlights:** Algorithm visualization, playable UI
+<br/>
 
-### 📊 [DSA Repository](https://github.com/AnkitSinghGTHB/DSA)
-Comprehensive collection of my DSA solutions and writeups
-- **Tech:** C++, Python
-- **Highlights:** 300+ commits, LeetCode & GFG solutions
 
-### 🎮 [Type2C](https://github.com/AnkitSinghGTHB/Type2C)
-Multiplayer typing game built with C++
-- **Tech:** C++, Socket Programming
-- **Highlights:** Real-time multiplayer, network programming
-
-### 🖼️ [2D Object Detection](https://github.com/AnkitSinghGTHB/2d-object-detection-without-opencv)
-Image segmentation using flood-fill algorithm without OpenCV
-- **Tech:** Python
-- **Highlights:** Custom algorithm implementation, computer vision
-
----
-
-## 📫 Connect With Me
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_Ankit_01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-s01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitS_1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tryhackme.com/p/ankitbkp2020)
-
-</div>
-
----
-
-<div align="center">
-  
-**💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-⭐ From [AnkitSinghGTHB](https://github.com/AnkitSinghGTHB)
-
+  <b>💬 "Code is like humor. When you have to explain it, it's bad." – Cory House</b><br/>
+  ⭐ From <a href="https://github.com/AnkitSinghGTHB">AnkitSinghGTHB</a>
 </div>
