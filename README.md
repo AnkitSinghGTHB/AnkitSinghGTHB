@@ -1,108 +1,116 @@
 <div align="center">
   <img src="GITHUB%20banner.png" alt="Ankit Singh Banner" width="100%">
+  <br/><br/>
+  
+  <h1>ANKIT SINGH</h1>
+  <p><strong>Software Engineer // Cybersecurity Researcher</strong></p>
+  
+  <p align="center">
+    <a href="https://github.com/AnkitSinghGTHB" target="_blank"><img src="https://img.shields.io/badge/GitHub-0e1117?style=flat-square&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/ankit-s01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e1117?style=flat-square&logo=linkedin&logoColor=e91e63" alt="LinkedIn" /></a>
+    <a href="https://tryhackme.com/p/ankitbkp2020" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-0e1117?style=flat-square&logo=tryhackme&logoColor=00e5ff" alt="TryHackMe" /></a>
+    <a href="https://leetcode.com/u/AnkitS_1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0e1117?style=flat-square&logo=leetcode&logoColor=e91e63" alt="LeetCode" /></a>
+    <a href="https://twitter.com/dev_Ankit_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-0e1117?style=flat-square&logo=twitter&logoColor=00e5ff" alt="Twitter" /></a>
+  </p>
 </div>
 
-<br/>
 
-# Ankit Singh
-**Software Engineer & Cybersecurity Specialist**  
-*Kolkata, West Bengal, India | ankitbkp2020@gmail.com | [linkedin.com/in/ankit-s01](https://linkedin.com/in/ankit-s01) | [github.com/AnkitSinghGTHB](https://github.com/AnkitSinghGTHB)*
 
----
+### // About Me
 
-### About Me
+I design and build high-performance systems and audit software security. Currently pursuing Computer Science & Engineering. My engineering philosophy centers on architectural speed, robustness, and proactive security.
 
-I am a Computer Science & Engineering student at the Vellore Institute of Technology (CGPA: 8.97) with a deep passion for building high-performance backends, scalable automation, and secure systems. My work spans from engineering hybrid semantic search engines with sub-100ms latency to scripting robust git automation workflows and auditing system security. 
-
-I thrive at the intersection of complex algorithms, machine learning pipelines, and cybersecurity frameworks. As the former Club Co-coordinator for the OWASP Student Chapter and a TryHackMe Top 3% global hacker, I am dedicated to writing optimized, secure, and robust open-source software.
-
-<p align="left">
-  <a href="https://github.com/AnkitSinghGTHB"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/ankit-s01"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/ankitbkp2020"><img src="https://img.shields.io/badge/TryHackMe-0f172a?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://leetcode.com/u/AnkitS_1/"><img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://twitter.com/dev_Ankit_01"><img src="https://img.shields.io/badge/Twitter-0f172a?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AnkitSinghGTHB&color=0f172a&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
-### Core Expertise
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | C++, Python, Java, TypeScript, JavaScript, HTML/CSS, SQL, Bash/Shell |
-| **Frameworks & Tech** | React, Node.js, GraphQL, REST APIs, Semantic Search, RAG, Machine Learning |
-| **Databases & Systems** | PostgreSQL, MySQL, Redis, Vector Databases |
-| **Security & DevOps** | Git/GitHub, Docker, GitHub Actions, Linux, CTF Challenges |
-| **Libraries & Tools** | Pandas, NumPy, Scikit-learn, LangChain, Hugging Face, SFML |
-| **CS Fundamentals** | Data Structures & Algorithms, OOP, Design Patterns, DBMS |
-
----
-
-### Featured Projects
-
-#### FluxSearch
-*Hybrid Search, Vector Retrieval, LLMs, GraphQL*
-* Engineered a self-hostable semantic search engine leveraging a hybrid retrieval strategy (BM25 + Vector Embeddings), achieving sub-100ms latency across 1M+ document chunks.
-* Designed a multi-source data ingestion pipeline and integrated a Large Language Model (LLM) powered RAG layer for conversational, context-aware query resolution.
-* Implemented production-grade REST and GraphQL APIs alongside a full telemetry and observability stack for real-time performance telemetry.
-
-#### Auto-Contributer
-*Python, Git Automation, Shell Scripting, CI/CD*
-* Engineered an automated version control engine in Python to programmatically generate, schedule, and orchestrate repository commits.
-* Modeled randomized time-series developer activity simulations to maintain organic, continuous GitHub contribution metrics.
-* Developed custom integrations with background cron jobs and GitHub Actions to allow autonomous, hands-off execution.
-
-#### Hybrid-Recommender System
-*Machine Learning, Collaborative Filtering, Python, Pandas*
-* Architected a dual-engine recommendation system combining collaborative and content-based filtering algorithms.
-* Built a scalable, optimized data adapter pipeline to seamlessly ingest, clean, and normalize dynamic training datasets.
-* Mitigated the cold-start problem and optimized prediction accuracy through iterative model metric tuning.
-
-#### Type2C
-*C++, Sockets, Network Programming*
-* Designed and built a real-time, competitive multiplayer typing application over network sockets.
-* Created a lightweight custom protocol to synchronize state, keypress events, and player scores with minimal latency.
-
-#### Snakes can Draw
-*Python, SFML*
-* Developed an interactive painting sandbox using custom game-engine mechanics in Python and SFML.
-* Integrated complex graphics math for path generation, smooth curve interpolation, and user-guided rendering vectors.
-
----
-
-### Achievements & Stats
-
-* **TryHackMe**: Top 3% global rank with active participation in international CTF competitions.
-* **Competitive Programming**: Solved 500+ algorithmic and database challenges across LeetCode, GeeksforGeeks, and HackerRank.
-* **Education**: Pursuing Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology with an active **CGPA of 8.97**.
+* **Systems Engineering** — Focus on designing self-hostable semantic retrieval pipelines (FluxSearch), multithreaded Java applications, and deep workflow automation engines (Auto-Contributer).
+* **Cybersecurity** — Active TryHackMe player (**Top 2% global rank**), security researcher, and Club Co-coordinator of the OWASP VITB Student Chapter.
+* **Core Focus** — Low-latency backends, custom network protocols, and cryptographic challenge development.
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSinghGTHB&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" height="120" style="vertical-align: middle;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSinghGTHB&background=0d1117&ring=00e5ff&fire=e91e63&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" height="110" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/ankitbkp2020"><img src="https://tryhackme-badges.s3.amazonaws.com/ankitbkp2020.png" alt="TryHackMe" height="120" style="vertical-align: middle;" /></a>
+  <a href="https://tryhackme.com/p/ankitbkp2020" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ankitbkp2020.png" alt="TryHackMe Badge" height="110" style="vertical-align: middle;" />
+  </a>
 </div>
 
----
-
-### Leadership & Community
-
-* **Club Co-coordinator | OWASP Student Chapter (VIT Bhopal)**  
-  Co-anchored a major campus security event securing 800+ registrations and 200+ active attendees. Co-organized a large-scale CTF competition, developing custom cryptography challenges and mentoring 500+ participants.
-* **Campus Partner | Perplexity AI**  
-  Represented Perplexity campus-wide, assisting over 100+ students in leverage advanced search capabilities, AI search agents, and developer environments.
-* **Event & Finance Lead | Aarohan '25**  
-  Directed technical coordination, crowd management, and financial allocation for a major cultural event serving over 250 participants.
+<br/>
 
 ---
 
-### Languages & Interests
+### // Tech Stack
 
-* **Languages**: English (Fluent), Hindi (Native), Bengali (Conversational)
-* **Interests**: Creative Sketching, Vocal Performance, Security Research, High-Speed Typing
+* **Languages** &nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-0e1117?style=flat-square&logo=c%2B%2B&logoColor=00e5ff" alt="C++" /> <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" /> <img src="https://img.shields.io/badge/Java-0e1117?style=flat-square&logo=openjdk&logoColor=00e5ff" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-0e1117?style=flat-square&logo=typescript&logoColor=e91e63" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0e1117?style=flat-square&logo=javascript&logoColor=00e5ff" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0e1117?style=flat-square&logo=postgresql&logoColor=e91e63" alt="SQL" /> <img src="https://img.shields.io/badge/Bash-0e1117?style=flat-square&logo=gnu-bash&logoColor=00e5ff" alt="Bash" />
+* **Frameworks & Architectures** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-0e1117?style=flat-square&logo=nodedotjs&logoColor=e91e63" alt="Node.js" /> <img src="https://img.shields.io/badge/React-0e1117?style=flat-square&logo=react&logoColor=00e5ff" alt="React" /> <img src="https://img.shields.io/badge/GraphQL-0e1117?style=flat-square&logo=graphql&logoColor=e91e63" alt="GraphQL" /> <img src="https://img.shields.io/badge/REST_APIs-0e1117?style=flat-square&logoColor=00e5ff" alt="REST APIs" /> <img src="https://img.shields.io/badge/Semantic_Search-0e1117?style=flat-square&logoColor=e91e63" alt="Semantic Search" /> <img src="https://img.shields.io/badge/RAG-0e1117?style=flat-square&logoColor=00e5ff" alt="RAG" />
+* **Databases & Infrastructure** &nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-0e1117?style=flat-square&logo=postgresql&logoColor=00e5ff" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Vector_DB-0e1117?style=flat-square&logoColor=e91e63" alt="Vector DB" /> <img src="https://img.shields.io/badge/Redis-0e1117?style=flat-square&logo=redis&logoColor=00e5ff" alt="Redis" /> <img src="https://img.shields.io/badge/MySQL-0e1117?style=flat-square&logo=mysql&logoColor=e91e63" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-0e1117?style=flat-square&logo=docker&logoColor=00e5ff" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-0e1117?style=flat-square&logo=linux&logoColor=e91e63" alt="Linux" />
+* **Libraries & Math** &nbsp;&nbsp; <img src="https://img.shields.io/badge/LangChain-0e1117?style=flat-square&logoColor=e91e63" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging_Face-0e1117?style=flat-square&logo=huggingface&logoColor=00e5ff" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Scikit--learn-0e1117?style=flat-square&logo=scikitlearn&logoColor=e91e63" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-0e1117?style=flat-square&logo=pandas&logoColor=00e5ff" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-0e1117?style=flat-square&logo=numpy&logoColor=e91e63" alt="NumPy" /> <img src="https://img.shields.io/badge/SFML-0e1117?style=flat-square&logoColor=00e5ff" alt="SFML" />
+
+<br/>
+
+---
+
+### // Featured Projects
+
+<table border="0" width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/FluxSearch"><code>// FluxSearch</code></a></h4>
+      <p>Self-hostable hybrid semantic search engine achieving sub-100ms vector retrieval and intelligent LLM-powered RAG pipelines.</p>
+      <img src="https://img.shields.io/badge/C++-0e1117?style=flat-square&logo=c%2B%2B&logoColor=00e5ff" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" />
+      <img src="https://img.shields.io/badge/GraphQL-0e1117?style=flat-square&logo=graphql&logoColor=00e5ff" alt="GraphQL" />
+      <img src="https://img.shields.io/badge/Vector_DB-0e1117?style=flat-square&logoColor=e91e63" alt="Vector DB" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/Auto-Contributer"><code>// Auto-Contributer</code></a></h4>
+      <p>Autonomous version control scheduler simulating organic developer activity and managing commit frequencies via GitHub Actions.</p>
+      <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" />
+      <img src="https://img.shields.io/badge/Git-0e1117?style=flat-square&logo=git&logoColor=e91e63" alt="Git" />
+      <img src="https://img.shields.io/badge/CI/CD-0e1117?style=flat-square&logo=github-actions&logoColor=00e5ff" alt="CI/CD" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/Hybrid-Recommender-System"><code>// Hybrid-Recommender</code></a></h4>
+      <p>Dual-engine recommendation engine utilizing collaborative and content-based filtering pipelines to mitigate cold-start limitations.</p>
+      <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" />
+      <img src="https://img.shields.io/badge/Pandas-0e1117?style=flat-square&logo=pandas&logoColor=e91e63" alt="Pandas" />
+      <img src="https://img.shields.io/badge/ML-0e1117?style=flat-square&logo=scikit-learn&logoColor=e91e63" alt="Machine Learning" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/Type2C"><code>// Type2C</code></a></h4>
+      <p>Competitive, real-time multiplayer network typing arena engineered over custom low-latency socket protocols.</p>
+      <img src="https://img.shields.io/badge/C++-0e1117?style=flat-square&logo=c%2B%2B&logoColor=00e5ff" alt="C++" />
+      <img src="https://img.shields.io/badge/Sockets-0e1117?style=flat-square&logoColor=00e5ff" alt="Sockets" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/Snakes-can-Draw"><code>// Snakes can Draw</code></a></h4>
+      <p>Interactive graphic painting sandbox leveraging custom game engine physics and rendering math.</p>
+      <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" />
+      <img src="https://img.shields.io/badge/SFML-0e1117?style=flat-square&logoColor=00e5ff" alt="SFML" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/AnkitSinghGTHB/Smart-Expense-Tracker-Application"><code>// Smart Expense Tracker</code></a></h4>
+      <p>Java-based tracking utility demonstrating robust Object-Oriented Programming (OOP) design patterns and local data transaction integrity.</p>
+      <img src="https://img.shields.io/badge/Java-0e1117?style=flat-square&logo=openjdk&logoColor=00e5ff" alt="Java" />
+      <img src="https://img.shields.io/badge/OOP-0e1117?style=flat-square&logoColor=e91e63" alt="OOP" />
+      <img src="https://img.shields.io/badge/Software_Design-0e1117?style=flat-square&logoColor=00e5ff" alt="Software Design" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### // Languages & Interests
+
+* **Languages** `·` English (Fluent) `·` Hindi (Native) `·` Bengali (Conversational)
+* **Interests** `·` Creative Sketching `·` Vocal Performance `·` Security Research `·` High-Speed Typing
+
+<br/>
 
 ---
 
