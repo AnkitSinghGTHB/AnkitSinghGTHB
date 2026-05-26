@@ -107,7 +107,7 @@ I design and build high-performance systems and audit software security. Current
 
 ### // Languages & Interests
 
-* **Languages** `·` English (Fluent) `·` Hindi (Native) `·` Bengali (Conversational)
+* **Languages** `·` English (Fluent) `·` Bengali (Native) `·`Hindi  (Conversational)
 * **Interests** `·` Creative Sketching `·` Vocal Performance `·` Security Research `·` High-Speed Typing
 
 <br/>
