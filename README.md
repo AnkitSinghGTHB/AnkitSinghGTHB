@@ -3,7 +3,7 @@
   <br/><br/>
   
   <h1>ANKIT SINGH</h1>
-  <p><strong>Software Engineer // Cybersecurity Researcher</strong></p>
+  <p><strong>Software Engineer // Cybersecurity Researcher // Open Source</strong></p>
   
   <p align="center">
     <a href="https://github.com/AnkitSinghGTHB" target="_blank"><img src="https://img.shields.io/badge/GitHub-0e1117?style=flat-square&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
@@ -14,15 +14,11 @@
   </p>
 </div>
 
+### About Me
 
+I design and build high-performance systems and audit software security. My engineering philosophy centers on architectural speed, robustness, and proactive security.
 
-### // About Me
-
-I design and build high-performance systems and audit software security. Currently pursuing Computer Science & Engineering. My engineering philosophy centers on architectural speed, robustness, and proactive security.
-
-* **Systems Engineering** — Focus on designing self-hostable semantic retrieval pipelines (FluxSearch), multithreaded Java applications, and deep workflow automation engines (Auto-Contributer).
-* **Cybersecurity** — Active TryHackMe player (**Top 2% global rank**), security researcher, and Club Co-coordinator of the OWASP VITB Student Chapter.
-* **Core Focus** — Low-latency backends, custom network protocols, and cryptographic challenge development.
+- Low-latency backends, custom network protocols, and cryptographic challenge development.
 
 <br/>
 
@@ -38,18 +34,18 @@ I design and build high-performance systems and audit software security. Current
 
 ---
 
-### // Tech Stack
+### Tech Stack
 
-* **Languages** &nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-0e1117?style=flat-square&logo=c%2B%2B&logoColor=00e5ff" alt="C++" /> <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" /> <img src="https://img.shields.io/badge/Java-0e1117?style=flat-square&logo=openjdk&logoColor=00e5ff" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-0e1117?style=flat-square&logo=typescript&logoColor=e91e63" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0e1117?style=flat-square&logo=javascript&logoColor=00e5ff" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0e1117?style=flat-square&logo=postgresql&logoColor=e91e63" alt="SQL" /> <img src="https://img.shields.io/badge/Bash-0e1117?style=flat-square&logo=gnu-bash&logoColor=00e5ff" alt="Bash" />
-* **Frameworks & Architectures** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-0e1117?style=flat-square&logo=nodedotjs&logoColor=e91e63" alt="Node.js" /> <img src="https://img.shields.io/badge/React-0e1117?style=flat-square&logo=react&logoColor=00e5ff" alt="React" /> <img src="https://img.shields.io/badge/GraphQL-0e1117?style=flat-square&logo=graphql&logoColor=e91e63" alt="GraphQL" /> <img src="https://img.shields.io/badge/REST_APIs-0e1117?style=flat-square&logoColor=00e5ff" alt="REST APIs" /> <img src="https://img.shields.io/badge/Semantic_Search-0e1117?style=flat-square&logoColor=e91e63" alt="Semantic Search" /> <img src="https://img.shields.io/badge/RAG-0e1117?style=flat-square&logoColor=00e5ff" alt="RAG" />
-* **Databases & Infrastructure** &nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-0e1117?style=flat-square&logo=postgresql&logoColor=00e5ff" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Vector_DB-0e1117?style=flat-square&logoColor=e91e63" alt="Vector DB" /> <img src="https://img.shields.io/badge/Redis-0e1117?style=flat-square&logo=redis&logoColor=00e5ff" alt="Redis" /> <img src="https://img.shields.io/badge/MySQL-0e1117?style=flat-square&logo=mysql&logoColor=e91e63" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-0e1117?style=flat-square&logo=docker&logoColor=00e5ff" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-0e1117?style=flat-square&logo=linux&logoColor=e91e63" alt="Linux" />
-* **Libraries & Math** &nbsp;&nbsp; <img src="https://img.shields.io/badge/LangChain-0e1117?style=flat-square&logoColor=e91e63" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging_Face-0e1117?style=flat-square&logo=huggingface&logoColor=00e5ff" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Scikit--learn-0e1117?style=flat-square&logo=scikitlearn&logoColor=e91e63" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-0e1117?style=flat-square&logo=pandas&logoColor=00e5ff" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-0e1117?style=flat-square&logo=numpy&logoColor=e91e63" alt="NumPy" /> <img src="https://img.shields.io/badge/SFML-0e1117?style=flat-square&logoColor=00e5ff" alt="SFML" />
+- **Languages** &nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-0e1117?style=flat-square&logo=c%2B%2B&logoColor=00e5ff" alt="C++" /> <img src="https://img.shields.io/badge/Python-0e1117?style=flat-square&logo=python&logoColor=e91e63" alt="Python" /> <img src="https://img.shields.io/badge/Java-0e1117?style=flat-square&logo=openjdk&logoColor=00e5ff" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-0e1117?style=flat-square&logo=typescript&logoColor=e91e63" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0e1117?style=flat-square&logo=javascript&logoColor=00e5ff" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-0e1117?style=flat-square&logo=postgresql&logoColor=e91e63" alt="SQL" /> <img src="https://img.shields.io/badge/Bash-0e1117?style=flat-square&logo=gnu-bash&logoColor=00e5ff" alt="Bash" />
+- **Frameworks & Architectures** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-0e1117?style=flat-square&logo=nodedotjs&logoColor=e91e63" alt="Node.js" /> <img src="https://img.shields.io/badge/React-0e1117?style=flat-square&logo=react&logoColor=00e5ff" alt="React" /> <img src="https://img.shields.io/badge/GraphQL-0e1117?style=flat-square&logo=graphql&logoColor=e91e63" alt="GraphQL" /> <img src="https://img.shields.io/badge/REST_APIs-0e1117?style=flat-square&logoColor=00e5ff" alt="REST APIs" /> <img src="https://img.shields.io/badge/Semantic_Search-0e1117?style=flat-square&logoColor=e91e63" alt="Semantic Search" /> <img src="https://img.shields.io/badge/RAG-0e1117?style=flat-square&logoColor=00e5ff" alt="RAG" />
+- **Databases & Infrastructure** &nbsp;&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-0e1117?style=flat-square&logo=postgresql&logoColor=00e5ff" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Vector_DB-0e1117?style=flat-square&logoColor=e91e63" alt="Vector DB" /> <img src="https://img.shields.io/badge/Redis-0e1117?style=flat-square&logo=redis&logoColor=00e5ff" alt="Redis" /> <img src="https://img.shields.io/badge/MySQL-0e1117?style=flat-square&logo=mysql&logoColor=e91e63" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-0e1117?style=flat-square&logo=docker&logoColor=00e5ff" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-0e1117?style=flat-square&logo=linux&logoColor=e91e63" alt="Linux" />
+- **Libraries & Math** &nbsp;&nbsp; <img src="https://img.shields.io/badge/LangChain-0e1117?style=flat-square&logoColor=e91e63" alt="LangChain" /> <img src="https://img.shields.io/badge/Hugging_Face-0e1117?style=flat-square&logo=huggingface&logoColor=00e5ff" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Scikit--learn-0e1117?style=flat-square&logo=scikitlearn&logoColor=e91e63" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-0e1117?style=flat-square&logo=pandas&logoColor=00e5ff" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-0e1117?style=flat-square&logo=numpy&logoColor=e91e63" alt="NumPy" /> <img src="https://img.shields.io/badge/SFML-0e1117?style=flat-square&logoColor=00e5ff" alt="SFML" />
 
 <br/>
 
 ---
 
-### // Featured Projects
+### Featured Projects
 
 <table border="0" width="100%" cellpadding="10">
   <tr>
@@ -105,10 +101,10 @@ I design and build high-performance systems and audit software security. Current
 
 ---
 
-### // Languages & Interests
+### Languages & Interests
 
-* **Languages** `·` English (Fluent) `·` Hindi (Native) `·` Bengali (Conversational)
-* **Interests** `·` Creative Sketching `·` Vocal Performance `·` Security Research `·` High-Speed Typing
+- **Languages** `·` English (Fluent) `·` Bengali (Native) `·` Hindi (Conversational)
+- **Interests** `·` Creative Sketching `·` Vocal Performance `·` Security Research `·` High-Speed Typing
 
 <br/>
 
